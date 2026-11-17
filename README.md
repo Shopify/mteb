@@ -1,3 +1,5 @@
+> **This repository is no longer maintained.** It has been archived by Shopify and receives no updates or security fixes.
+
 <h1 align="center">Massive Text Embedding Benchmark</h1>
 
 <p align="center">
